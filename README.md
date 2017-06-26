@@ -1,0 +1,2 @@
+# HanLP_Traditional_Chinese_Support
+HanLP支持繁體中文和簡中字典較好的字典
